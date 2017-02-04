@@ -1,0 +1,11 @@
+
+CPU Temperature = 32.6
+CPU Use = 0.1
+
+RAM Total = 948.0 MB
+RAM Used = 268.0 MB
+RAM Free = 679.0 MB
+
+DISK Total Space = 7.2GB
+DISK Used Space = 3.8GB
+DISK Used Percentage = 55%

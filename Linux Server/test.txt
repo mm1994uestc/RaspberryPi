@@ -1,0 +1,56 @@
+Hello World!
+m
+m
+1
+9
+9
+4
+u
+e
+s
+t
+c
+['A', 'B', 'C', 'D']
+set(['A', 'C', 'B', 'D'])
+1
+/home/pi/WorkSpace/Linux Server
+总用量 64
+drwxr-xr-x 2 pi pi  4096 2月   3 02:48 .
+drwxr-xr-x 7 pi pi  4096 1月  27 02:59 ..
+-rw-r--r-- 1 pi pi     0 1月  30 14:35 B.txt
+-rwxr-xr-x 1 pi pi  7476 2月   3 02:47 main
+-rw-r--r-- 1 pi pi 31827 1月  29 09:11 NetInfo.txt
+-rw-rw-r-- 1 pi pi   865 1月  28 07:36 Notes
+-rwxrwxrw- 1 pi pi   195 1月  27 09:38 ping.sh
+-rwxr--r-- 1 pi pi   754 2月   3 02:48 test.sh
+-rw-r--r-- 1 pi pi   116 2月   3 02:48 test.txt
+Server:		118.118.118.55
+Address:	118.118.118.55#53
+
+Non-authoritative answer:
+www.baidu.com	canonical name = www.a.shifen.com.
+Name:	www.a.shifen.com
+Address: 220.181.112.244
+Name:	www.a.shifen.com
+Address: 220.181.111.188
+
+traceroute to www.yahoo.com (116.214.12.74), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  0.173 ms  0.200 ms  0.180 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  202.97.79.237 (202.97.79.237)  43.434 ms 202.97.79.233 (202.97.79.233)  41.253 ms 202.97.79.221 (202.97.79.221)  42.740 ms
+ 6  202.97.53.178 (202.97.53.178)  41.107 ms 202.97.53.114 (202.97.53.114)  43.441 ms 202.97.53.178 (202.97.53.178)  44.017 ms
+ 7  202.97.58.90 (202.97.58.90)  41.729 ms  41.645 ms  41.574 ms
+ 8  202.97.91.114 (202.97.91.114)  82.720 ms  86.900 ms  85.531 ms
+ 9  202.97.121.218 (202.97.121.218)  77.352 ms  77.278 ms  77.221 ms
+10  * * *
+11  * * *
+12  * * *
+13  ge-0-0-0.pat2.kry.yahoo.com (203.84.210.61)  142.702 ms ge-1-0-0.pat2.kry.yahoo.com (203.84.210.63)  156.230 ms ge-1-1-0.pat1.krx.yahoo.com (203.84.210.64)  140.333 ms
+14  ae-9.pat2.krx.yahoo.com (203.84.210.66)  131.073 ms  130.591 ms  130.389 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  ir1.fp.vip.tp2.yahoo.com (116.214.12.74)  124.948 ms  125.237 ms  127.671 ms

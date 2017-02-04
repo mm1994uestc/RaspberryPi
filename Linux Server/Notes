@@ -1,0 +1,34 @@
+iptables
+tcp_wrappers
+http ftp samba
+internet
+SELinux  r+w+x
+sudo apt-get install dnsutils(Ubuntu)
+sudo yum install bind-utils(Redhat)
+ifconfig 
+ifup
+ifdown
+ip link show <==单纯的查看设备的相关信息
+ip link set dev down
+ip link set dev up
+ip link set dev name mm
+ip link set dev mtu 1500
+ip link set dev address aa:aa:aa:aa:aa:aa
+ip address show
+ip addr show
+ip route show
+ip route add 192.168.0.100/24dev eth0
+traceroute
+traceroute -n
+traceroute -w 1 -n -T tw.yahoo.com
+netstat -[rn]
+netstat -[atulpc]
+netstat -tulnp
+host -[a] www.baidu.com
+wget http://www.Linux.com/data/kernel.deb
+links www.baidu.com > /home/pi/Workspace/Linux\ Server/Web.html
+nslookup www.baidu.com
+nslookup 168.121.1.1
+tcpdump [-AennqX] [-i 接口] [-w 存储文件名] [-c 次数] [-r 文件] [所要摘取的数据包的数据格式]
+nc -lp port_number
+nc [-lu] [IP|host] [port]
